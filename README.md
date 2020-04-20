@@ -4,7 +4,7 @@ Basic TODO app on react-native for learning.
 ### TODO list:
  - [ ] React Native Elements
  - [ ] React Navigation
- - [ ] Firebase Auth
+ - [ ] Parse Platform integration as mock backend
  - [ ] React Context API
  - [ ] Proper Structure integration
  - [ ] Testing workflow
