@@ -3,7 +3,7 @@ Basic TODO app on react-native for learning.
 
 ### TODO list:
  - [x] React Native Elements
- - [ ] React Navigation
+ - [x] React Navigation
  - [ ] Parse Platform integration as mock backend
  - [ ] React Context API
  - [ ] Proper Structure integration
